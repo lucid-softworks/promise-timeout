@@ -6,5 +6,6 @@ Underlying work is not cancelled.
 ```ts
 import { promiseTimeout } from "@lucid-softworks/promise-timeout";
 
+const request = fetch("https://example.com");
 await promiseTimeout(request, 2_000);
 ```
