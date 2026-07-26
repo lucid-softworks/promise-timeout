@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/promise-timeout",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Apply a deadline to a promise-like value.",
   "keywords": [
     "javascript",
